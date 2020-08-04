@@ -1,7 +1,12 @@
-### Hi there 👋
+# Hi there, I am Gen known as TheKinng96 👾
 
-<!--
-**TheKinng96/TheKinng96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Learning 
+### I am currently learning VueJS.
+
+## Goal
+### Doing my best to be a full-stack web developer in 5 years
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
