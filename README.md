@@ -1,5 +1,14 @@
-# Hi there, I am Gen known as TheKinng96 👾
+  # Hi there, I am Gen known as TheKinng96 👾
+<p align="center">
+  <img src="https://github.com/TheKinng96/TheKinng96/blob/master/you.png" height="500px" />
+</p>
 
+## Who am I ?
+- A self-taught web dev graduated from the Faculty of Econs. Based in Tokyo (2020) and got my first *software engineering position* (trial) in August 2020.
+- Learned programming for completing a section of my university junior paper, but ended up with **front-end developing**
+
+### My Programming Journey in short
+> R > Python > Django > 
 
 ## Learning 
 ### I am currently learning VueJS.
