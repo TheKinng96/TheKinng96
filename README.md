@@ -17,9 +17,9 @@
 
 ## Goal
 ### Doing my best to be a full-stack web developer in 5 years
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekinng96)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<a href="#" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thekinng96" />
+</a>
 
 ## Others
 ### ⚡ Fun fact:
@@ -29,4 +29,9 @@
 - Cook good meals
 
 ## How to Reach G3N ?
-<a href="#">LOL</a>
+<a href="https://twitter.com/TheKinng96" target="_blank">
+  <img src="https://github.com/TheKinng96/TheKinng96/blob/master/pngwing.com.png" width="100px"/>
+</a>
+<a href="https://www.linkedin.com/in/fengyuan-yap-489b7b126/" target="_blank">
+  <img src="https://github.com/TheKinng96/TheKinng96/blob/master/pngwing.com%20(1).png" width="100px"/>
+</a>
