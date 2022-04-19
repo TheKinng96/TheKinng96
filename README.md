@@ -1,6 +1,6 @@
 # 👾 Hi there, I am Gen known as TheKinng96 👾
 <p align="center">
-  <img src="https://github.com/TheKinng96/TheKinng96/blob/master/you.png" height="500px" />
+  <img src="https://www.canva.com/design/DAE-VXk2AZY/0sbLI6RsjkJrSllVCd_XTQ/view?utm_content=DAE-VXk2AZY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" height="500px" />
 </p>
 
 ## Who am I 🧐 ? 
@@ -31,6 +31,7 @@ Not looking good right? I know, using Bitbucket now...
 - 🗻🗻 I've climbed Mt.FUJI for 5 times 🗻🗻🗻
 - 👨🏼‍🍳 Cook good meals 
 - 💪🏼 Working out at GYM again, growing bulky again 💪🏼
+- Speaking few languages including Mandarin, English, and Japanese + more
 
 ## How to Reach G3N ?
 <a href="https://www.linkedin.com/in/fengyuan-yap-489b7b126/" target="_blank">
