@@ -1,6 +1,6 @@
 # 👾 Hi there, I am Gen known as TheKinng96 👾
 <p align="center">
-  <img src="https://www.canva.com/design/DAE-VXk2AZY/0sbLI6RsjkJrSllVCd_XTQ/view?utm_content=DAE-VXk2AZY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" height="500px" />
+  <img src="https://github.com/TheKinng96/genportfolio/blob/master/src/assets/Brown%20Abstract%20Watercolor%20Linktree%20Profile%20Image.png" height="500px" />
 </p>
 
 ## Who am I 🧐 ? 
