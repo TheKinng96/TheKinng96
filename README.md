@@ -1,5 +1,1 @@
-# One day you finally knew
-# what you had to do, and began,
-# though the voices around you
-# kept shouting
-# their bad advice
+### Life is like a pool. Some swim with floats—education, skills, or privilege—while others swim without, relying on learned abilities and resilience. Some have luxurious floats, passed down through generations, while others make do with whatever they can. We may dream of the biggest floats, but those are rare, and even they can tip over. Instead of waiting for the perfect float, why not embrace what we have and learn to swim stronger? After all, it’s not just about the float but how we navigate the waters.
